@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Maurice I have a real passion for teaching and I hope that one of my blog posts, videos or courses helps you solve a problem or learn something new.
+I’m Maurice <!-- I have a real passion for teaching and I hope that one of my blog posts, videos or courses helps you solve a problem or learn something new.-->
 
 <!-- ![Profile Header](./github_profile_header.png)-->
 
