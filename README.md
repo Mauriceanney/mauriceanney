@@ -1,7 +1,7 @@
 <h2 align="center">Salut, moi c'est Maurice 👋</h2>
 
 <p align="center">
-Ingénieur API &amp; IAM. Je passe mes journées autour de l'identité, de l'accès et de la sécurité des API, et une partie de mon temps libre à écrire et à bricoler des projets open source sur ces sujets.
+Ingénieur API &amp; IAM. Je passe mes journées autour de la gestion et la sécurisation des des API, des identité et des accès, et une partie de mon temps libre à écrire et à bricoler des projets open source sur ces sujets.
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@ Ingénieur API &amp; IAM. Je passe mes journées autour de l'identité, de l'acc
 
 ---
 
-Ce qui me passionne en ce moment, c'est ce que l'IA et les agents changent pour l'authentification et l'accès : de nouvelles identités à gérer, des jetons qui agissent en notre nom, et souvent les mêmes vieilles failles qui reviennent. J'aime prendre ces sujets un peu arides et les rendre clairs.
+Ce qui me passionne en ce moment, c'est ce que l'IA et les agents changent pour les API et l'IAM : de nouvelles identités à gérer, des jetons qui agissent en notre nom, et souvent les mêmes vieilles failles qui reviennent. J'aime prendre ces sujets un peu arides et les rendre clairs.
 
 ### 🧩 Autour de quoi je gravite
 
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-2C3E50?style=flat-square)
+![OAuth 2.0/2.1](https://img.shields.io/badge/OAuth_2.0-2C3E50?style=flat-square)
 ![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![API Management](https://img.shields.io/badge/API_Management-6C5CE7?style=flat-square)
-![Identité & accès](https://img.shields.io/badge/Identité_%26_accès-0A0A0A?style=flat-square)
+![Identity & Access Management](https://img.shields.io/badge/Identité_%26_accès-0A0A0A?style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
