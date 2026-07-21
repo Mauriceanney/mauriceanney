@@ -1,28 +1,33 @@
-### Maurice Aney
+<h2 align="center">Salut, moi c'est Maurice 👋</h2>
 
-Ingénieur identité, accès et sécurité des API. Depuis près de dix ans, je travaille une seule question sous toutes ses formes : **qui, et quoi, accède à quoi.**
+<p align="center">
+Ingénieur API &amp; IAM. Je passe mes journées autour de l'identité, de l'accès et de la sécurité des API, et une partie de mon temps libre à écrire et à bricoler des projets open source sur ces sujets.
+</p>
 
-D'Abidjan aux banques régulées en France (paiements interbancaires, post-trade), aujourd'hui Associate Technical Lead chez WSO2 sur des plateformes d'API et d'IAM à fort trafic : OAuth 2.0, OpenID Connect, JWT, Zero Trust.
+<p align="center">
+  <a href="https://mauriceaney.com"><img src="https://img.shields.io/badge/Site-mauriceaney.com-F5C400?style=for-the-badge&logo=ghost&logoColor=0A0A0A" alt="Site"></a>
+  <a href="https://www.linkedin.com/in/mauriceaney/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mauriceaney.com/newsletter/"><img src="https://img.shields.io/badge/Newsletter-chaque_semaine-111111?style=for-the-badge&logo=maildotru&logoColor=F5C400" alt="Newsletter"></a>
+</p>
 
-Ce qui m'occupe maintenant : ce que l'IA et les agents changent pour l'identité et l'accès. L'IA écrit du code, les agents agissent en notre nom, et les mêmes failles d'authentification reviennent en masse. Je ne fais pas qu'en parler, je construis.
+---
 
-#### Ce que je construis
+Ce qui me passionne en ce moment, c'est ce que l'IA et les agents changent pour l'authentification et l'accès : de nouvelles identités à gérer, des jetons qui agissent en notre nom, et souvent les mêmes vieilles failles qui reviennent. J'aime prendre ces sujets un peu arides et les rendre clairs.
 
-- **[OAuthLint](https://oauthlint.dev)** : un linter open-source qui attrape les anti-patterns OAuth, OIDC et JWT dans le code, y compris celui généré par l'IA. En CLI, GitHub Action et extension VS Code.
+### 🧩 Autour de quoi je gravite
 
-#### Ressources gratuites
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-2C3E50?style=flat-square)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![API Management](https://img.shields.io/badge/API_Management-6C5CE7?style=flat-square)
+![Identité & accès](https://img.shields.io/badge/Identité_%26_accès-0A0A0A?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- **Guide de survie** : 7 compétences en API et sécurité que l'IA ne remplacera pas. [Le lire](https://go.mauriceaney.com/guide-survie).
-- **Workshop OAuth2, JWT & MCP** : sécuriser vos API avant que les agents ne s'en emparent. [Découvrir](https://go.mauriceaney.com/workshop).
+### 🔧 Projet open source
 
-#### Où j'écris
+**[OAuthLint](https://github.com/Auspeo/oauthlint)** : un linter qui repère les erreurs classiques d'OAuth, d'OIDC et de JWT dans le code, y compris celui écrit par l'IA. En CLI, en GitHub Action et en extension d'éditeur. → [oauthlint.dev](https://oauthlint.dev)
 
-J'écris en français sur la sécurité de l'identité, de l'accès et des agents à l'ère de l'IA.
+### ✍️ J'écris aussi
 
-- Site et articles : **[mauriceaney.com](https://mauriceaney.com)**
-- Newsletter : un email concret, chaque semaine. [S'abonner](https://mauriceaney.com/newsletter/).
-
-#### Me joindre
-
-- Site : [mauriceaney.com](https://mauriceaney.com)
-- LinkedIn : [in/mauriceaney](https://www.linkedin.com/in/mauriceaney/)
+En français, sur l'identité, l'accès et la sécurité à l'ère de l'IA. C'est sur [mauriceaney.com](https://mauriceaney.com), et dans une newsletter courte, une fois par semaine.
