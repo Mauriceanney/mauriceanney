@@ -30,4 +30,4 @@ Ce qui me passionne en ce moment, c'est ce que l'IA et les agents changent pour 
 
 ### ✍️ J'écris aussi
 
-En français, sur l'identité, l'accès et la sécurité à l'ère de l'IA. C'est sur [mauriceaney.com](https://mauriceaney.com), et dans une newsletter courte, une fois par semaine.
+Au sujet de la sécurité des API et des identités à l'ère de l'IA. C'est sur [mauriceaney.com](https://mauriceaney.com), et dans une newsletter courte, une fois par semaine.
