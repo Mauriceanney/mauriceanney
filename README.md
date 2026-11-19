@@ -15,8 +15,8 @@ Je travaille sur la gestion des API, des identités et des accès, l'intégratio
 
 ### Compétences
 
-- **Gestion des API** — API Management, REST, GraphQL
 - **Gestion des identités et des accès** — OAuth 2.0, OpenID Connect, JWT, Zero Trust, gestion des identités machines et des agents IA
+- **Gestion des API** — API Management, REST, GraphQL
 - **Intégration de systèmes** — intégration de systèmes hétérogènes, architectures événementielles
 - **Agents IA** — déploiement de services LLM et d'agents IA en entreprise, gouvernance et sécurité des accès agentiques
 - **Architecture** — conception d'architectures cloud-native et événementielles, modernisation d'applications legacy, conseil technique auprès des équipes clientes
