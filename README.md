@@ -17,14 +17,17 @@ Je travaille sur des plateformes d'intégration, d'API management et d'identité
 
 - **Identité et accès** — OAuth 2.0, OpenID Connect, JWT, Zero Trust, gestion des identités machines et des agents IA
 - **API et intégration** — API Management, REST, GraphQL, architectures événementielles, intégration de systèmes hétérogènes
-- **Plateformes et infrastructure** — Kubernetes, Docker, CI/CD, architectures cloud-native
+- **Architecture** — conception d'architectures cloud-native et événementielles, modernisation d'applications legacy, conseil technique auprès des équipes clientes
+- **Plateformes et infrastructure** — Kubernetes, CI/CD
 - **Agents IA** — intégration de services LLM et d'agents IA en entreprise, gouvernance et sécurité des accès agentiques
 
-### Stack et sujets
+### Stack
 
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-1B2A41?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-1B2A41?style=flat-square)
 ![IAM](https://img.shields.io/badge/IAM-1B2A41?style=flat-square)
 ![API Management](https://img.shields.io/badge/API_Management-1B2A41?style=flat-square)
+![Agents IA](https://img.shields.io/badge/Agents_IA-1B2A41?style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Projets
