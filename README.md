@@ -11,13 +11,10 @@
 
 </div>
 
-Je travaille sur des plateformes d'intégration, d'API management et d'identité (IAM). Ce qui me passionne en ce moment, c'est la gestion des identités et des accès à l'ère des agents IA. Je partage ce que j'apprends sur mauriceaney.com et dans une newsletter hebdomadaire.
+Je travaille sur des plateformes d'intégration, d'API management et d'identité (IAM). Ce qui me passionne en ce moment, c'est la gestion des identités et des accès à l'ère des agents IA. Je partage ce que j'apprends sur [mauriceaney.com](https://mauriceaney.com) et dans une [newsletter](https://mauriceaney.com/newsletter/) hebdomadaire.
 
 ### Stack et sujets
 
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-1B2A41?style=flat-square)
-![OIDC](https://img.shields.io/badge/OpenID_Connect-1B2A41?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-1B2A41?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-1B2A41?style=flat-square)
 ![IAM](https://img.shields.io/badge/IAM-1B2A41?style=flat-square)
 ![API Management](https://img.shields.io/badge/API_Management-1B2A41?style=flat-square)
