@@ -11,15 +11,16 @@
 
 </div>
 
-Je travaille sur des plateformes d'intégration, d'API management et d'identité (IAM). Ce qui me passionne en ce moment, c'est la gestion des identités et des accès à l'ère des agents IA. Je partage ce que j'apprends sur [mauriceaney.com](https://mauriceaney.com), dans une [newsletter](https://mauriceaney.com/newsletter/) hebdomadaire, en vidéo sur [YouTube](https://www.youtube.com/@mauriceaney) et sur [LinkedIn](https://www.linkedin.com/in/mauriceaney).
+Je travaille sur la gestion des API, des identités et des accès, l'intégration de systèmes et les agents IA. Ce qui me passionne en ce moment, c'est de sécuriser l'accès des agents IA sans ouvrir de nouvelle faille. Je partage ce que j'apprends sur [mauriceaney.com](https://mauriceaney.com), dans une [newsletter](https://mauriceaney.com/newsletter/) hebdomadaire, en vidéo sur [YouTube](https://www.youtube.com/@mauriceaney) et sur [LinkedIn](https://www.linkedin.com/in/mauriceaney).
 
 ### Compétences
 
-- **Identité et accès** — OAuth 2.0, OpenID Connect, JWT, Zero Trust, gestion des identités machines et des agents IA
-- **API et intégration** — API Management, REST, GraphQL, architectures événementielles, intégration de systèmes hétérogènes
+- **Gestion des API** — API Management, REST, GraphQL
+- **Gestion des identités et des accès** — OAuth 2.0, OpenID Connect, JWT, Zero Trust, gestion des identités machines et des agents IA
+- **Intégration de systèmes** — intégration de systèmes hétérogènes, architectures événementielles
+- **Agents IA** — déploiement de services LLM et d'agents IA en entreprise, gouvernance et sécurité des accès agentiques
 - **Architecture** — conception d'architectures cloud-native et événementielles, modernisation d'applications legacy, conseil technique auprès des équipes clientes
 - **Plateformes et infrastructure** — Kubernetes, CI/CD
-- **Agents IA** — intégration de services LLM et d'agents IA en entreprise, gouvernance et sécurité des accès agentiques
 
 ### Stack
 
